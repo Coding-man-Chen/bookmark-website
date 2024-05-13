@@ -29,3 +29,5 @@ npm run build
 ```
 
 You only need to deploy your html files and css/style.css
+
+You can view the deployed website on [Vercel Platform](https://bookmark-website-iota.vercel.app/)
